@@ -1,0 +1,52 @@
+Windows Registry Editor Version 5.00
+;現行值
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Blind Access]
+"On"="0"
+;畫面>高對比
+[HKEY_CURRENT_USER\Control Panel\Accessibility\HighContrast]
+"Flags"="122"
+;鍵盤>切換鍵
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Preference]
+"On"="0"
+;鍵盤>篩選鍵
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"Flags"="122"
+;滑鼠>滑鼠鍵
+[HKEY_CURRENT_USER\Control Panel\Accessibility\MouseKeys]
+"Flags"="58"
+;音效>顯示聲音
+[HKEY_CURRENT_USER\Control Panel\Accessibility\ShowSounds]
+"On"="0"
+;音效>聲音感測
+[HKEY_CURRENT_USER\Control Panel\Accessibility\SoundSentry]
+"Flags"="2"
+;鍵盤>相黏鍵
+[HKEY_CURRENT_USER\Control Panel\Accessibility\StickyKeys]
+"Flags"="506"
+;一般>自動重設
+[HKEY_CURRENT_USER\Control Panel\Accessibility\TimeOut]
+"Flags"="2"
+;鍵盤>切換鍵
+[HKEY_CURRENT_USER\Control Panel\Accessibility\ToggleKeys]
+"Flags"="58"
+;預設值
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\Blind Access]
+"On"="0"
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\HighContrast]
+"Flags"="122"
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\Keyboard Preference]
+"On"="0"
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\Keyboard Response]
+"Flags"="122"
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\MouseKeys]
+"Flags"="58"
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\ShowSounds]
+"On"="0"
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\SoundSentry]
+"Flags"="2"
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\StickyKeys]
+"Flags"="510"
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\TimeOut]
+"Flags"="2"
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\ToggleKeys]
+"Flags"="58"
